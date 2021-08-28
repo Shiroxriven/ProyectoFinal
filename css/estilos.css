@@ -1,0 +1,36 @@
+.tituloizq {
+  color: brown; }
+
+.titulo__miembros {
+  color: blueviolet; }
+
+.titulo-navbar {
+  color: red; }
+
+.backgroundpag {
+  background-color: black; }
+
+.redes {
+  background-color: black;
+  text-align: center;
+  padding: 1rem;
+  list-style: none; }
+
+.pilares {
+  color: blueviolet; }
+
+.titulo__miembros {
+  font-size: 50px;
+  text-align: center; }
+
+.tituloizq {
+  font-size: 30px; }
+
+.redes {
+  font-size: 25px; }
+
+.pilares {
+  text-align: center; }
+
+.navbar-nav {
+  font-size: 20px;}
